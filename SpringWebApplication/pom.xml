@@ -1,21 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Explore
- @Gkarthi4016
- Sign out
- Watch 1
-  Star 0  Fork 0 Vinodh-thimmisetty/Spring-Web-Application
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights
-Branch: master Find file Copy pathSpring-Web-Application/pom.xml
-71d1bda  14 days ago
-@Vinodh-thimmisetty Vinodh-thimmisetty testing powermock URL in sonar
-1 contributor
-RawBlameHistory     
-429 lines (397 sloc)  13.1 KB
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
@@ -442,4 +424,4 @@ RawBlameHistory
 			</plugin>
 		</plugins>
 	</build>
-
+</project>
